@@ -1,2 +1,2 @@
-# ASKGRP-Web
+# Practical
 
